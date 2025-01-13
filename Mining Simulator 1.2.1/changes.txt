@@ -1,3 +1,0 @@
-The game is now split up into many files. Instead of one big file, each class and function has its own file.
-Also solar crystal added, very very rare.
-Other than that there are no important gameplay changes than 1.2.0
